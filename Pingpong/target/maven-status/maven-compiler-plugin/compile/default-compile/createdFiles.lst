@@ -1,0 +1,6 @@
+com\mycompany\pingpong\ConnectionFactory.class
+com\mycompany\pingpong\entities\Person.class
+com\mycompany\pingpong\resources\JavaEE8Resource.class
+com\mycompany\pingpong\entities\Matches.class
+com\mycompany\pingpong\beans\ResultsBean.class
+com\mycompany\pingpong\JAXRSConfiguration.class
